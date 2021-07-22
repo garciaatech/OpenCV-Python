@@ -1,2 +1,2 @@
 # OpenCV-Python
-Projects and Examples for the OpenCV library.
+Basic Examples for learning the OpenCV library.
